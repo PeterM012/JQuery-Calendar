@@ -24,6 +24,12 @@ body {
   .description{
     white-space: pre-wrap;
   }
+
+  .box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+  }
   
   .time-block{
     text-align: center;
