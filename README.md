@@ -19,7 +19,7 @@ https://peterm012.github.io/JQuery-Calendar/
 
 ## To Do
 Create a a daily planner to schedule
-Ppen the planner the current day is displayed at the top of the calendar
+Open the planner the current day is displayed at the top of the calendar
 Scroll down presented with timeblocks for standard business hours
 View the timeblocks for that day each timeblock is color coded to indicate whether it is in the past, present, or future
 Click into a timeblock an event be can entered
