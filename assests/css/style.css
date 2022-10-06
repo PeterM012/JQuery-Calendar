@@ -27,7 +27,7 @@ body {
   }
 
   .time {
-    margin-bottom: 20%;
+    margin-top: 2.5%;
   }
   
   .time-block{
@@ -38,7 +38,8 @@ body {
   .d-flex {
     white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;;
+    border: 3px solid black;;
+    border-radius: 18px;
   }
   
   .hour {
