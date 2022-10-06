@@ -11,6 +11,7 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    width: 968px;
   }
   
   .jumbotron {
@@ -25,10 +26,8 @@ body {
     white-space: pre-wrap;
   }
 
-  .box {
-    min-height: 50px;
-    padding: 5px;
-    margin: 5px;
+  .time {
+    margin-bottom: 20%;
   }
   
   .time-block{
@@ -36,7 +35,7 @@ body {
     border-radius: 15px;
   }
   
-  .row {
+  .d-flex {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid white;;
@@ -46,6 +45,9 @@ body {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
+    width: 120px;
+    text-align: center;
+    padding: 20px;
   }
   
   .past {
@@ -69,6 +71,8 @@ body {
     border-bottom-right-radius: 15px;
     background-color: #06AED5;
     color: white;
+    width: 120px;
+    font-size: 20px;
   }
   
   .saveBtn i:hover {
