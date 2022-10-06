@@ -1,7 +1,7 @@
 # JQuery-Calendar
 
 ## Deployed Link
-
+https://peterm012.github.io/JQuery-Calendar/
 
 ## Site Picture
 ![Daily Planner Gif](https://user-images.githubusercontent.com/110750833/194388428-994f2b1a-bf72-4a70-9ac2-b210ed2c4623.gif)
